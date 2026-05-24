@@ -1,3 +1,4 @@
+// Rezolvare Laborator Clean Code
 #include <stdio.h>
 #include <stdlib.h>
 
